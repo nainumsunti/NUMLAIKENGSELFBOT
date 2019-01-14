@@ -347,7 +347,7 @@ def mentionMembers(to, mid):
 
 def myhelp():
     myHelp = """╔══════════════┓
-╠     VҜ ŚẾL₣ВΌŦ
+╠     NUMLAIKENG ŚẾL₣ВΌŦ
 ╚══════════════┛
 ╔══════════════┓
 ╠❋►Me ↔คอนแทค
@@ -362,7 +362,7 @@ def myhelp():
 ╠❋►ทีมบอท
 ╠❋►Creator
 ╠❋►Sp
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋NUMLAIKENG ŚẾL₣ВΌŦ »"""
     return myHelp
 
 def listgrup():
@@ -401,7 +401,7 @@ def listgrup():
 ╠❋►ล้างแบน @
 ╠❋►เตะแบน
 ╠❋►เช็คไอดี
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋ NUMLAIKENG ŚẾL₣ВΌŦ»"""
     return listGrup
 
 def socmedia():
@@ -423,7 +423,7 @@ def socmedia():
 ╠❋►ไอจี 
 ╠❋►เวลา
 ╠❋►ขอหื่น
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋NUMLAIKENG ŚẾL₣ВΌŦ »"""
     return socMedia
 
 def helpset():
@@ -478,7 +478,7 @@ def helpset():
 ╠❋►ชื่อ;
 ╠❋►ตัส;
 ╠❋►Spam on ↔ off
-╰═❋BY: VҜ ŚẾL₣ВΌŦ"""
+╰═❋BY: NUMLAIKENG ŚẾL₣ВΌŦ"""
     return helpSet
 
 def helpsetting():
@@ -514,7 +514,7 @@ def helpsetting():
 ╠❋►กันกลุ่ม ↔ ปิดกันกลุ่ม
 ╠❋►กันเข้า ↔ ปิดกันเข้า
 ╠❋►เปิดหมด ↔ ปิดหมด
-╰══❋BY: VҜ ŚẾL₣ВΌŦ """
+╰══❋BY: NUMLAIKENG ŚẾL₣ВΌŦ """
     return helpSetting
 
 def helptexttospeech():
@@ -544,7 +544,7 @@ def helptexttospeech():
 ╠❋► sr : เซอเบียร์
 ╠❋► th : ไทย
 ╠❋► vi : เวียดนาม
-╰═❋BY: VҜ ŚẾL₣ВΌŦ »
+╰═❋BY: NUMLAIKENG ŚẾL₣ВΌŦ »
 
 「วิธีใช้ : พูด พี่คะหนูเงี่ยน」"""
     return helpTextToSpeech
@@ -585,7 +585,7 @@ def helplanguange():
 ╠❋► ru : รัสเซีย
 ╠❋► th : ไทย
 ╠❋► zu : ซูลู
-╰═❋BY: VҜ ŚẾL₣ВΌŦ »
+╰═❋BY: NUMLAIKENG ŚẾL₣ВΌŦ »
  
 「วิธีใช้ : Tr-th ตามด้วยคำที่จะแปล」"""
     return helpLanguange
@@ -826,10 +826,10 @@ def lineBot(op):
                 elif "n" == msg.text.lower():
                     msg.contentType = 13
                     line.sendMessage(to, "=========================")
-                    line.sendContact(to, "u0035a5a6c5ae9d30c9a0992ecbc39395")
-                    line.sendContact(to, "u590d74c3ea29085e3a5ecc2a3c2774ad")
-                    line.sendContact(to, "u646f9c4263b465c1325ff0668c93ac23")
-                    line.sendContact(to, "uddeed56c41e83b27740ede8fc1d5a645")
+                    line.sendContact(to, "u0d2e984dbd8f6ffb2b00dd8fa16c695f")
+                    line.sendContact(to, "ubfcef56d6b7e10abb299311de6e37556")
+                    line.sendContact(to, "ufb7d3b60a2320cd63b0f44113c386fe4")
+                    line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557")
                     line.sendMessage(to, "=========================")
 #===========
                 elif "เพลงมา" == msg.text.lower():
@@ -844,12 +844,12 @@ def lineBot(op):
                 elif "ทีมบอท" == msg.text.lower():
                     msg.contentType = 13
                     line.sendMessage(to, "CREAROT & ADMIN \nŚẾL₣ВΌŦ (｡◕‿◕｡)")
-                    line.sendContact(to, "u0035a5a6c5ae9d30c9a0992ecbc39395")
-                    line.sendContact(to, "u9e0f538586963f09c59b75648081e9d5")
-                    line.sendContact(to, "ubf4806077f2b20dd22fb3a7072eb0eb8")
-                    line.sendContact(to, "ufec28f9f699a2cb6444e62e5397fe115")
-                    line.sendContact(to, "ue1a44110ed4e82ba603010445f0ba585")
-                    line.sendContact(to, "u6588c368db2307a41862b7385e00f4d8")                        
+                    line.sendContact(to, "u0d2e984dbd8f6ffb2b00dd8fa16c695f")
+                    line.sendContact(to, "ubfcef56d6b7e10abb299311de6e37556")
+                    line.sendContact(to, "ufb7d3b60a2320cd63b0f44113c386fe4")
+                    line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557")
+                    line.sendContact(to, "u00812c367ada33c17b60a9dad9c7f0f7")
+                    line.sendContact(to, "u33fa5550045e7620e8f75c7548f68f8f")                        
 #==============================================================================#
                 elif text.lower() == 'เช็ค':
                     try:
